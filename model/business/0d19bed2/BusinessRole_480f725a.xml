@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contactpersoon"
+    id="480f725a"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;Dit is de medewerker wiens contactgegevens worden meegegeven met de ketenregistratie. De contactpersoon treedt met andere contactpersonen/- gebruikers en de eventuele zorgcoördinator in overleg over een casus.&quot;"/>

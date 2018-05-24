@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matchpoint koppelvlak"
+    id="a54177bd"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;Een standaard koppeling, ontwikkeld om de systemen van de instellingen te koppelen aan de applicatie Matchpoint. Een set van vaste gegevens wordt door de interface automatisch doorgegeven aan Matchpoint.&quot;"/>

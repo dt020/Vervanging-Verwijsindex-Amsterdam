@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notificatie (email)"
+    id="c81e175a"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;Een bericht dat verzonden wordt aan de betrokkenen en gebruikers waarin staat dat er een nieuwe ketenregistratie is toegevoegd aan de applicatie. De berichten worden verzonden aan gebruikers en instellingen die een ketenregistratie hebben van een jongere. De nieuwe instelling ontvangt emailbericht(en) terug van de andere instanties die betrokken zijn bij dezelfde jongere. Door deze werkwijze blijven alle betrokken instellingen op de hoogte van de actuele situatie.&quot;"/>

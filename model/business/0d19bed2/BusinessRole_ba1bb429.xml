@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiebeheerder technisch"
+    id="ba1bb429"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;De technische applicatiebeheerder is op hoofdlijnen verantwoordelijk voor ondermeer:&#xD;&#xA;■ het identificeren, analyseren en oplossen van fouten en knelpunten&#xD;&#xA;■ monitoren van resources en security maatregelen;&#xD;&#xA;■ het maken van backups, uitvoeren van analyses, operationeel beheer, up- grades en noodzakelijke vervanging van hardware;&#xD;&#xA;■ licenties, aanschaf en onderhoud voor de aangesloten gemeenten;&#xD;&#xA;■ beheer van convenanten;&#xD;&#xA;■ het hosten van de applicatie en de gegevens en het technische beheer van de applicatie Matchpoint.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inloggen"
+    id="c526641a"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;Als een gebruiker van Matchpoint een account heeft gekregen kan er worden gewerkt met Matchpoint. Daarvoor moet eerst worden ingelogd en moet er een wachtwoord worden ingevuld. Dat gebeurt altijd met de mobiele telefoon en een SMS-bericht (TAN-code). Dat wachtwoord wijzigt iedere keer als er wordt ingelogd.&#xD;&#xA;N.B. 1: Instellingen die met een automatische koppeling op Matchpoint zijn aangesloten loggen niet in op de webapplicatie, maar hebben via de eigen bedrijfsadministratie (Kidos, Care4) contact met Matchpoint.&#xD;&#xA;N.B. 2: Medewerkers van de gemeente Amsterdam hebben een afwijkende inlogprocedure.&quot;"/>

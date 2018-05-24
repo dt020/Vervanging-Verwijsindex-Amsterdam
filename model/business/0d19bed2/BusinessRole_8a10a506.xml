@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker"
+    id="8a10a506"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;Aangewezen, natuurlijke persoon aan wie toegang is verleend tot de applicatie Matchpoint nadat authenticatie heeft plaatsgevonden en nadat voor de toe te passen functieautorisatieheeftplaatsvonden.&quot;"/>

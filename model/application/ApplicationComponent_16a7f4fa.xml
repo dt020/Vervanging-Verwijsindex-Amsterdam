@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BVBSN"
+    id="16a7f4fa"
+    documentation="Volgens https://www.amsterdam.nl/publish/pages/291258/matchpoint-vragenbegrippen_20160119.pdf: &quot;De Beheervoorziening BSN (BVBSN) is het geheel van voorzieningen dat het genereren, distribueren, beheren en raadplegen van het BSN verzorgt. Daarnaast wordt met behulp van de beheervoorziening ook (geautoriseerd) toegang verkregen tot identificerende persoonsgegevens en kan worden gecontroleerd of identiteitsdocumenten die aan het loket worden gebruikt nog in omloop mogen zijn. BVBSN is ondergebracht bij BPR.&quot;"/>
